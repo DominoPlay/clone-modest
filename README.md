@@ -12,7 +12,7 @@ Stack:
 
 Google Lighthouse results:
 
-Perfomance - 100
-Accessibility - 100
-Best Practises - 100
-SEO - 100
+- Perfomance - 100
+- Accessibility - 100
+- Best Practises - 100
+- SEO - 100
