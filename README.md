@@ -12,7 +12,14 @@ Stack:
 
 Google Lighthouse results:
 
+Desktop:
 - Perfomance - 100
 - Accessibility - 100
 - Best Practises - 100
+- SEO - 100
+
+Mobile:
+- Perfomance - 90+
+- Accessibility - 100
+- Best Practises - 90+
 - SEO - 100
