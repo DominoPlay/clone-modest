@@ -350,6 +350,8 @@ nav a {
   }
   .contact-form {
     margin-top: -200px;
+    -webkit-box-shadow: 0px 0px 10px 0px #4b4b4b;
+            box-shadow: 0px 0px 10px 0px #4b4b4b;
   }
 }
 
